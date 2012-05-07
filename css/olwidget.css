@@ -183,6 +183,6 @@
 }
 
 /* Hide the erroneous OpenLayers Google copyright popup */
-.olLayerGoogleCopyright {
+.olLayerGoogleCopyright, .olLayerGooglePoweredBy {
     display: none;
 }
